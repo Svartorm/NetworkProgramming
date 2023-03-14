@@ -1,0 +1,4 @@
+anna - True
+civic - True
+racecar - True
+remote - False
